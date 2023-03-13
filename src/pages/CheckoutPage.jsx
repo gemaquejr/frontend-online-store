@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import './CheckoutPage.css';
+
 export default class CheckoutPage extends Component {
   constructor(props) {
     super(props);

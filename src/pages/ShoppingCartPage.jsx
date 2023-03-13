@@ -4,6 +4,8 @@ import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 // import { getProductsFromProductID } from '../services/api';
 
+import './ShoppingCartPage.css';
+
 class ShoppingCartPage extends React.Component {
   constructor() {
     super();
